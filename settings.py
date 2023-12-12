@@ -3,7 +3,6 @@
 DATA_RAW = './data_raw'
 DATA_TEMP_AUDIO = './data_temp_audio'
 DATA_TRANSCRIBED_TEXT = './data_transcribed_text'
-DATA_PRE_PROCESSED_ONE = './data_pre_processed'
 
 #WHISPER
 WHISPER_LOAD_MODEL = 'base'
